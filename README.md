@@ -1,2 +1,2 @@
 # slt
-sistema de lineas telefonicas
+Sistema de Líneas Telefónicas
